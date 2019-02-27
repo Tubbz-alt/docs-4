@@ -43,7 +43,7 @@ To create an Application Insights resource, follow the instructions in the artic
 - **Set up Application Insights for ASP.NET web apps and ASP.NET Core:** \
   <https://docs.microsoft.com/azure/application-insights/app-insights-asp-net>
 
-- **Application Insights for web pages:**  
+- **Application Insights for web pages:** \
   <https://docs.microsoft.com/azure/application-insights/app-insights-javascript>
 
 ## Security, backup, and monitoring services
